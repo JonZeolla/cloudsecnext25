@@ -1,6 +1,6 @@
 [project]
 name = "cloudsecnext25"
-version = "0.0.0"
+version = "0.1.0"
 description = "CloudSecNext 🚀"
 authors = [
     { name = "jonzeolla", email = "Python@jonzeolla.com" }
